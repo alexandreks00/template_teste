@@ -1,0 +1,3 @@
+search: "//input[@id='search']"
+button_registry: "//a[contains(text(), 'Cadastre-se')]"
+faq_popup: "//span[@class='close-chat']"
